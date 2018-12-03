@@ -1,0 +1,10 @@
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\bin\Debug\netcoreapp1.1\Flight.deps.json
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\bin\Debug\netcoreapp1.1\Flight.runtimeconfig.json
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\bin\Debug\netcoreapp1.1\Flight.runtimeconfig.dev.json
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\bin\Debug\netcoreapp1.1\Flight.dll
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\bin\Debug\netcoreapp1.1\Flight.pdb
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\obj\Debug\netcoreapp1.1\Flight.csproj.CoreCompileInputs.cache
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\obj\Debug\netcoreapp1.1\Flight.AssemblyInfo.cs
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\obj\Debug\netcoreapp1.1\Flight.dll
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\obj\Debug\netcoreapp1.1\Flight.pdb
+C:\Users\likal.DESKTOP-D88P2KR\source\repos\Flight\Flight\obj\Debug\netcoreapp1.1\Flight.csprojResolveAssemblyReference.cache
